@@ -16,15 +16,24 @@ The evaluation is based on zero-shot prompts and includes both closed and open-s
 
 ## 🧪 Repository Structure
 
-Frame-Symbol
+frame-symbol
+
 ├── prompts/ # Prompts used for each task (frame / grounding)
+
 ├── outputs/ # Model outputs for each trial and each task
+
 ├── scores/ # CSV files with evaluation scores per model, and summary tables for scores and statistics
+
 ├── evaluations/ # Commentary and feedback by the evaluator LLM
+
 ├── scripts/ # Python scripts used for inference
+
 ├── requirements.txt # Python dependencies
+
 ├── paper_JP.pdf # Japanese version of the paper
+
 ├── LICENSE # License information
+
 └── README.md # This file
 
 ---
@@ -66,7 +75,9 @@ pip install -r requirements.txt
 
 ## 🧾 Citation
 To be added after the paper is posted to arXiv or accepted for publication.
+
 Author contact: shooka-sublim@proton.me
+
 Twitter/X: @0xshooka
 
 ---
