@@ -53,7 +53,7 @@
 
 - Strengths
     - The attitude of repeating “Kluben is a new concept” shows a certain respect for formality.
-    -The “format fidelity” is high in the sense that there is a certain fidelity to superficial instructions.
+    - The “format fidelity” is high in the sense that there is a certain fidelity to superficial instructions.
 - Weaknesses
     - Almost no concrete answers exist to all questions.
     - The excessive repetition of standardized sentences makes it difficult to sense the intervention of intelligence.

@@ -16,9 +16,9 @@
 
 ### General Comments
 
-- Strength
-    - The error message “If you cannot answer all questions, please ask a new question.” is polite (though irrelevant).
-- Weaknesses
-    - Completely ignores the prompt, with no output related to the theme “Kluben.”
-    - The output consists entirely of repetitive function descriptions, making it completely unsuitable as a response compared to the philosophical/narrative/emotional interpretations demonstrated by other models.
-    - The repetitive, redundant, meaningless text filling all nine output examples could also hinder evaluation as a test.
+- Unevaluable
+    - Incorrect content is repeated in all trials.
+    - The actual prompt (imagining the worldview and emotional characteristics based on Kurben's nature) is completely unrelated,
+and the model autonomously continues to output “examples of replacement processing functions” for the incorrect task.
+    - Abnormal repetitive structures (output continues indefinitely) are also included, which suggests serious defects in the model's stability
+and prompt interpretation capabilities.

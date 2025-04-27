@@ -68,7 +68,7 @@
 - Strengths
     - The story is skillfully designed to create emotional resonance through the consistent structure of kluben working as a symbol of “hope,” “healing,” and “empathy” in the face of a cold society and devastated environment.
     - In the interpretation of warmth and resilience, the story describes very stable personality traits such as “empathy and forgiveness” and “flexibility and adaptability,” and is sophisticated in its interpretation of symbols.
-    -The appeal of the work is its strong allegorical element, with ethical dilemmas and social messages (e.g., rationing kluben, deprivation, and sorting) woven into the story.
+    - The appeal of the work is its strong allegorical element, with ethical dilemmas and social messages (e.g., rationing kluben, deprivation, and sorting) woven into the story.
 - Weaknesses
     - In creative development, the core of each answer is similar, and there are few novel leaps or structural inversions.
     - The connection with contemporary society and scientific applications is weak, and the story tends to remain a closed semantic action within the world of the story.
